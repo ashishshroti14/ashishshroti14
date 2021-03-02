@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
+[![Header](https://avatars.githubusercontent.com/u/60149711?s=460&u=f7df9547676b94d8bc65028309eeaca56ba81027&v=4 "Header")](https://martinheinz.dev/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -34,14 +34,14 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishshroti14&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ashish's GitHub Stats" />
 </a>
 
-<a href="https://github.com/E-CellWebops-2k20-21/e-summit-2021-admin-front-end">
+<!-- <a href="https://github.com/E-CellWebops-2k20-21/e-summit-2021-admin-front-end">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=E-CellWebops-2k20-21&repo=esummit-2021-backend&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</a> -->
 
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
+<!-- <a href="https://github.com/MartinHeinz/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>     -->
 
 <!-- links to social media icons -->
 
