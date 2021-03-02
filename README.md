@@ -1,14 +1,14 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://avatars.githubusercontent.com/u/60149711?s=460&u=f7df9547676b94d8bc65028309eeaca56ba81027&v=4 "Header")](https://martinheinz.dev/)
+<!-- [![Header](https://avatars.githubusercontent.com/u/60149711?s=460&u=f7df9547676b94d8bc65028309eeaca56ba81027&v=4 "Header")](https://martinheinz.dev/) -->
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Ashish Kumar Shroti and I'm a software developer/DevOps enthusiast. Currently, a manager at Web and Mobile Operations Team, E-Cell, IIT Madras.  You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-## &#x270d; Blog & Writing
+<!-- ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz). -->
 
 <!-- ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
