@@ -2,6 +2,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Ashish Kumar Shroti. Currently, an Intern at BuzzTara and a former manager at Web and Mobile Operations Team, <a href="https://ecell.iitm.ac.in/">E-Cell, IIT Madras<a/>. 
+  
   Worked on projects involving basic AI/ML algorithms.
   
   Worked on projects involving ReactJS, NodeJS and MongoDB.
