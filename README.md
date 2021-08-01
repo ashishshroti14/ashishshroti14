@@ -1,7 +1,12 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Ashish Kumar Shroti and I'm a WebOps enthusiast. Currently, a manager at Web and Mobile Operations Team, <a href="https://ecell.iitm.ac.in/">E-Cell, IIT Madras<a/>. Worked on projects involving ReactJS, NodeJS and MongoDB. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Ashish Kumar Shroti. Currently, an Intern at BuzzTara and a former manager at Web and Mobile Operations Team, <a href="https://ecell.iitm.ac.in/">E-Cell, IIT Madras<a/>. 
+  Worked on projects involving basic AI/ML algorithms.
+  
+  Worked on projects involving ReactJS, NodeJS and MongoDB.
+  
+  You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 
 
